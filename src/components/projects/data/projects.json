@@ -1,0 +1,45 @@
+{
+  "projects": [
+    {
+      "name": "Workflows for Confluence",
+      "description": "Shape how documents are created, approved and published in Confluence - build custom workflows with page review and approvals",
+      "technologies": ["React", "TypeScript", "GraphQL", "Redis"],
+      "image": "https://marketplace-cdn.atlassian.com/files/images/b31f6c97-f0b7-42c0-a8fb-b8ca4636c5f2.png",
+      "gitHub": "",
+      "url": "https://marketplace.atlassian.com/apps/1222276/workflows-for-confluence?hosting=cloud&tab=overview",
+      "background": "#B8C3D3"
+    },
+    {
+      "name": "Harvard Collection",
+      "description": "",
+      "technologies": ["React", "TypeScript"],
+      "image": "https://www.antiquesandthearts.com/wp-content/uploads/2018/10/jacob_van_ruisdael_wheat_fields_ca_1670.jpg",
+      "gitHub": "",
+      "background": "#FDECCE"
+    },
+    {
+      "name": "FRA - Jira App/C# Service",
+      "description": "",
+      "technologies": ["React", "Java", "C#"],
+      "image": "https://www.antiquesandthearts.com/wp-content/uploads/2018/10/jacob_van_ruisdael_wheat_fields_ca_1670.jpg",
+      "gitHub": "",
+      "background": "#CEDABF"
+    },
+    {
+      "name": "EO4Wildlife - MARINERS",
+      "description": "",
+      "technologies": ["R", "Shiny"],
+      "image": "https://www.antiquesandthearts.com/wp-content/uploads/2018/10/jacob_van_ruisdael_wheat_fields_ca_1670.jpg",
+      "gitHub": "",
+      "background": "#E1C1D0"
+    },
+    {
+      "name": "",
+      "description": "",
+      "technologies": ["", "", ""],
+      "image": "https://www.antiquesandthearts.com/wp-content/uploads/2018/10/jacob_van_ruisdael_wheat_fields_ca_1670.jpg",
+      "gitHub": "",
+      "background": "#EFD1CD"
+    }
+  ]
+}
